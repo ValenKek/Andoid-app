@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LR2</string>
+    <string name="default_text">Список</string>
+    <string name="btn_text">Показати список</string>
+
+    <string name="btn_send">Відправити повідомлення</string>
+    <string name="Copmany_text">Компанія</string>
+    <string name="Product_name">Вироб</string>
+    <string name="btn_ok_text">OK</string>
+    <string name="btnCmpDetailTxt">Детальніше...</string>
+    <string name="level_txt">Тип продукту</string>
+    <string name="level_txt_GPU">Відеокарта</string>
+    <string name="level_txt_CPU">Процесор</string>
+    <string name="flg_txt">Додаткові відомості</string>
+    <string name="Date_flg_txt">Чи є в наявності</string>
+</resources>
